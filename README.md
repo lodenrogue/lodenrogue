@@ -1,16 +1,16 @@
-### Hi there 👋
+# Miguel Hernandez 
+Software engineer, published author, and open source contributor. I love hiking and discussing the nature of reality.
 
-<!--
-**lodenrogue/lodenrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cool things I've built or worked on
+- Facial Biometrics
+- Payments Systems
+- Published a Paper on Machine Learning
+- Evolutionary Algorithms
+- News Aggregators
+- Tools for Roleplaying Games
+---
 
-Here are some ideas to get you started:
+[![My Stats](https://github-readme-stats.vercel.app/api?username=lodenrogue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Orchid](https://github.com/lodenrogue/orchid)
+- 👯 I’m looking to collaborate on open source projects
