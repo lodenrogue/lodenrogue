@@ -3,7 +3,7 @@ Software engineer, author, and open source contributor.
 
 ### Cool things I've built or worked on
 - Facial Biometrics
-- Payments Systems
+- Payment Systems
 - Published a Paper on Machine Learning
 - Evolutionary Algorithms
 - News Aggregators
