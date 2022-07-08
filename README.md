@@ -1,5 +1,5 @@
 # Miguel Hernandez 
-Software engineer, published author, and open source contributor. I love hiking and discussing the nature of reality.
+Software engineer, author, and open source contributor.
 
 ### Cool things I've built or worked on
 - Facial Biometrics
