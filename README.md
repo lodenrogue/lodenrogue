@@ -1,5 +1,5 @@
 # Miguel Hernandez 
-Software engineer, author, and open source contributor.
+Software engineer, author, and open source contributor
 
 ### Cool things I've built or worked on
 - Facial Biometrics
@@ -12,5 +12,5 @@ Software engineer, author, and open source contributor.
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=lodenrogue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Orchid](https://github.com/lodenrogue/orchid)
+- 🔭 I’m currently working on utilities for MacOS
 - 👯 I’m looking to collaborate on open source projects
