@@ -11,5 +11,5 @@ Software engineer and architect, author, investor, and open source contributor
 
 <!--[![My Stats](https://github-readme-stats.vercel.app/api?username=lodenrogue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
-- 🔭 I’m currently working on trying to do everything from inside Emacs
+- 🔭 I’m currently working on [Davao Explorer](https://github.com/lodenrogue/davao-explorer)
 - 👯 I’m looking to collaborate on open source projects
