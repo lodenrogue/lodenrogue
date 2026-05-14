@@ -1,5 +1,5 @@
 # Miguel Hernandez 
-Software engineer and architect, author, investor, and open source contributor
+Software engineer and architect, author, investor, and open source contributor.
 
 ### Cool things I've built or worked on
 - Lead Architect on one of the world's largest payment systems
